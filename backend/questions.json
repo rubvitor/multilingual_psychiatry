@@ -1,0 +1,944 @@
+{
+  "en": [
+    {
+      "id": 1,
+      "text": "Do you often fail to pay close attention to details or make careless mistakes?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 2,
+      "text": "Do you often have difficulty sustaining attention in tasks or play activities?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 3,
+      "text": "Do you often avoid or dislike tasks that require sustained mental effort?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 4,
+      "text": "Do you often lose things necessary for tasks or activities (e.g., keys, wallet)?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 5,
+      "text": "Are you often easily distracted by extraneous stimuli?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 6,
+      "text": "Do you often forget daily activities, such as appointments or chores?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 7,
+      "text": "Do you often feel restless, like you need to move constantly?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 8,
+      "text": "Do you often find it hard to relax or feel uncomfortable being still?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 9,
+      "text": "Do you often talk excessively in social situations?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 10,
+      "text": "Do you often interrupt others during conversations or activities?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 11,
+      "text": "Do you find it hard to wait your turn in situations?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 12,
+      "text": "Do you often blurt out answers before a question has been completed?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 13,
+      "text": "Do you often feel impulsive in decisions or actions?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 14,
+      "text": "Have you ever had periods of extreme happiness or euphoria?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 15,
+      "text": "Have you ever had periods of excessive irritability or anger?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 16,
+      "text": "Have you ever needed less sleep but still felt energetic?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 17,
+      "text": "Have you ever talked faster or more than usual?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 18,
+      "text": "Have you ever felt like your thoughts were racing?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 19,
+      "text": "Have you ever been more active or productive than usual?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 20,
+      "text": "Have you ever spent money impulsively or made risky financial decisions?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 21,
+      "text": "Have you ever had periods of extreme self-confidence or grandiosity?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 22,
+      "text": "Have you ever engaged in risky behaviors, such as reckless driving or unprotected sex?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 23,
+      "text": "Have you ever had difficulty concentrating during periods of mood changes?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 24,
+      "text": "Have you ever had mood swings that affected your relationships or work?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 25,
+      "text": "Have you ever felt invincible or unstoppable?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 26,
+      "text": "Have you ever had periods of extreme sadness or hopelessness after being very happy?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 27,
+      "text": "Do you have intense fear of being abandoned?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 28,
+      "text": "Do your relationships often feel unstable or intense?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 29,
+      "text": "Do you often experience sudden mood changes?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 30,
+      "text": "Do you often feel empty or like something is missing?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 31,
+      "text": "Do you have difficulty controlling your anger?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 32,
+      "text": "Do you often engage in impulsive behaviors (e.g., spending, substance abuse)?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 33,
+      "text": "Do you have episodes of self-harm or suicidal thoughts?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 34,
+      "text": "Do you feel like people either idealize or devalue you?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 35,
+      "text": "Do you experience intense feelings of insecurity?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 36,
+      "text": "Do you feel disconnected from reality during stress?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 37,
+      "text": "Do you often feel like you don't know who you are?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 38,
+      "text": "Do you find it difficult to maintain long-term relationships?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 39,
+      "text": "Do you feel your emotions are too intense or hard to handle?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 40,
+      "text": "Do you have intrusive thoughts that cause anxiety?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 41,
+      "text": "Do you feel compelled to perform rituals to reduce anxiety?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 42,
+      "text": "Do you excessively check things, like locks or appliances?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 43,
+      "text": "Do you feel the need to organize things in a specific way?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 44,
+      "text": "Do you avoid situations that might trigger obsessive thoughts?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 45,
+      "text": "Do you spend a lot of time cleaning or washing?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 46,
+      "text": "Do you feel uncomfortable if you can't complete a ritual?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 47,
+      "text": "Do your obsessions interfere with your daily life?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 48,
+      "text": "Do you struggle to resist compulsive behaviors?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 49,
+      "text": "Do you feel anxious if things aren\u2019t perfect or symmetrical?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 50,
+      "text": "Do you feel a need to confess or seek reassurance frequently?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 51,
+      "text": "Do you avoid certain objects or places due to contamination fears?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 52,
+      "text": "Do you spend excessive time on repetitive tasks or thoughts?",
+      "category": "OCD",
+      "weight": 1.0
+    }
+  ],
+  "pt": [
+    {
+      "id": 1,
+      "text": "Voc\u00ea often fail to pay close attention to details or make careless mistakes?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 2,
+      "text": "Voc\u00ea often have difficulty sustaining attention in tarefas or play activities?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 3,
+      "text": "Voc\u00ea often avoid or dislike tarefas that require sustained mental effort?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 4,
+      "text": "Voc\u00ea often lose things necessary for tarefas or activities (e.g., keys, wallet)?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 5,
+      "text": "Voc\u00ea est\u00e1 often easily distracted by extraneous stimuli?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 6,
+      "text": "Voc\u00ea often forget daily activities, such as appointments or chores?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 7,
+      "text": "Voc\u00ea often sente restless, like you need to move constantly?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 8,
+      "text": "Voc\u00ea often find it hard to relax or sente uncomfortable being still?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 9,
+      "text": "Voc\u00ea often talk excessively in social situations?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 10,
+      "text": "Voc\u00ea often interrupt others during conversations or activities?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 11,
+      "text": "Voc\u00ea find it hard to wait your turn in situations?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 12,
+      "text": "Voc\u00ea often blurt out answers before a question has been completed?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 13,
+      "text": "Voc\u00ea often sente impulsive in decisions or actions?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 14,
+      "text": "Voc\u00ea j\u00e1 ever had periods of extreme happiness or euphoria?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 15,
+      "text": "Voc\u00ea j\u00e1 ever had periods of excessive irritability or anger?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 16,
+      "text": "Voc\u00ea j\u00e1 ever needed less sleep but still felt energetic?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 17,
+      "text": "Voc\u00ea j\u00e1 ever talked faster or more than usual?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 18,
+      "text": "Voc\u00ea j\u00e1 ever felt like your pensamentos were racing?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 19,
+      "text": "Voc\u00ea j\u00e1 ever been more active or productive than usual?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 20,
+      "text": "Voc\u00ea j\u00e1 ever spent money impulsively or made risky financial decisions?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 21,
+      "text": "Voc\u00ea j\u00e1 ever had periods of extreme self-confidence or grandiosity?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 22,
+      "text": "Voc\u00ea j\u00e1 ever engaged in risky behaviors, such as reckless driving or unprotected sex?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 23,
+      "text": "Voc\u00ea j\u00e1 ever had difficulty concentrating during periods of mood changes?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 24,
+      "text": "Voc\u00ea j\u00e1 ever had mood swings that affected your relationships or work?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 25,
+      "text": "Voc\u00ea j\u00e1 ever felt invincible or unstoppable?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 26,
+      "text": "Voc\u00ea j\u00e1 ever had periods of extreme sadness or hopelessness after being very happy?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 27,
+      "text": "Voc\u00ea have intense fear of being abandoned?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 28,
+      "text": "Voc\u00ear relationships often sente unstable or intense?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 29,
+      "text": "Voc\u00ea often experience sudden mood changes?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 30,
+      "text": "Voc\u00ea often sente empty or like something is missing?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 31,
+      "text": "Voc\u00ea have difficulty controlling your anger?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 32,
+      "text": "Voc\u00ea often engage in impulsive behaviors (e.g., spending, substance abuse)?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 33,
+      "text": "Voc\u00ea have episodes of self-harm or suicidal pensamentos?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 34,
+      "text": "Voc\u00ea sente like people either idealize or devalue you?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 35,
+      "text": "Voc\u00ea experience intense senteings of insecurity?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 36,
+      "text": "Voc\u00ea sente disconnected from reality during stress?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 37,
+      "text": "Voc\u00ea often sente like you don't know who you are?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 38,
+      "text": "Voc\u00ea find it difficult to maintain long-term relationships?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 39,
+      "text": "Voc\u00ea sente your emotions are too intense or dif\u00edcil de lidar?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 40,
+      "text": "Voc\u00ea have pensamentos intrusivos that cause anxiety?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 41,
+      "text": "Voc\u00ea sente obrigado to perform rituais to reduce anxiety?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 42,
+      "text": "Voc\u00ea excessively check things, like locks or appliances?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 43,
+      "text": "Voc\u00ea sente the need to organize things in a specific way?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 44,
+      "text": "Voc\u00ea avoid situations that might trigger obsessive pensamentos?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 45,
+      "text": "Voc\u00ea spend a lot of time cleaning or washing?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 46,
+      "text": "Voc\u00ea sente uncomfortable if you can't complete a ritual?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 47,
+      "text": "Voc\u00ear obsessions interfere with your daily life?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 48,
+      "text": "Voc\u00ea struggle to resist compulsive behaviors?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 49,
+      "text": "Voc\u00ea sente anxious if things aren\u2019t perfect or symmetrical?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 50,
+      "text": "Voc\u00ea sente a need to confess or seek reassurance frequently?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 51,
+      "text": "Voc\u00ea avoid certain objects or places due to contamination fears?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 52,
+      "text": "Voc\u00ea spend excessive time on repetitive tarefas or pensamentos?",
+      "category": "OCD",
+      "weight": 1.0
+    }
+  ],
+  "es": [
+    {
+      "id": 1,
+      "text": "\u00bfT\u00fa often fail to pay close attention to details or make careless mistakes?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 2,
+      "text": "\u00bfT\u00fa often have difficulty sustaining attention in tareas or play activities?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 3,
+      "text": "\u00bfT\u00fa often avoid or dislike tareas that require sustained mental effort?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 4,
+      "text": "\u00bfT\u00fa often lose things necessary for tareas or activities (e.g., keys, wallet)?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 5,
+      "text": "\u00bfEst\u00e1s often easily distracted by extraneous stimuli?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 6,
+      "text": "\u00bfT\u00fa often forget daily activities, such as appointments or chores?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 7,
+      "text": "\u00bfT\u00fa often sientes restless, like you need to move constantly?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 8,
+      "text": "\u00bfT\u00fa often find it hard to relax or sientes uncomfortable being still?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 9,
+      "text": "\u00bfT\u00fa often talk excessively in social situations?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 10,
+      "text": "\u00bfT\u00fa often interrupt others during conversations or activities?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 11,
+      "text": "\u00bfT\u00fa find it hard to wait your turn in situations?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 12,
+      "text": "\u00bfT\u00fa often blurt out answers before a question has been completed?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 13,
+      "text": "\u00bfT\u00fa often sientes impulsive in decisions or actions?",
+      "category": "ADHD",
+      "weight": 1.0
+    },
+    {
+      "id": 14,
+      "text": "\u00bfAlguna vez has ever had periods of extreme happiness or euphoria?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 15,
+      "text": "\u00bfAlguna vez has ever had periods of excessive irritability or anger?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 16,
+      "text": "\u00bfAlguna vez has ever needed less sleep but still felt energetic?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 17,
+      "text": "\u00bfAlguna vez has ever talked faster or more than usual?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 18,
+      "text": "\u00bfAlguna vez has ever felt like your pensamientos were racing?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 19,
+      "text": "\u00bfAlguna vez has ever been more active or productive than usual?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 20,
+      "text": "\u00bfAlguna vez has ever spent money impulsively or made risky financial decisions?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 21,
+      "text": "\u00bfAlguna vez has ever had periods of extreme self-confidence or grandiosity?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 22,
+      "text": "\u00bfAlguna vez has ever engaged in risky behaviors, such as reckless driving or unprotected sex?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 23,
+      "text": "\u00bfAlguna vez has ever had difficulty concentrating during periods of mood changes?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 24,
+      "text": "\u00bfAlguna vez has ever had mood swings that affected your relationships or work?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 25,
+      "text": "\u00bfAlguna vez has ever felt invincible or unstoppable?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 26,
+      "text": "\u00bfAlguna vez has ever had periods of extreme sadness or hopelessness after being very happy?",
+      "category": "Bipolar",
+      "weight": 1.0
+    },
+    {
+      "id": 27,
+      "text": "\u00bfT\u00fa have intense fear of being abandoned?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 28,
+      "text": "\u00bfT\u00far relationships often sientes unstable or intense?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 29,
+      "text": "\u00bfT\u00fa often experience sudden mood changes?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 30,
+      "text": "\u00bfT\u00fa often sientes empty or like something is missing?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 31,
+      "text": "\u00bfT\u00fa have difficulty controlling your anger?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 32,
+      "text": "\u00bfT\u00fa often engage in impulsive behaviors (e.g., spending, substance abuse)?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 33,
+      "text": "\u00bfT\u00fa have episodes of self-harm or suicidal pensamientos?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 34,
+      "text": "\u00bfT\u00fa sientes like people either idealize or devalue you?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 35,
+      "text": "\u00bfT\u00fa experience intense sientesings of insecurity?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 36,
+      "text": "\u00bfT\u00fa sientes disconnected from reality during stress?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 37,
+      "text": "\u00bfT\u00fa often sientes like you don't know who you are?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 38,
+      "text": "\u00bfT\u00fa find it difficult to maintain long-term relationships?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 39,
+      "text": "\u00bfT\u00fa sientes your emotions are too intense or dif\u00edcil de manejar?",
+      "category": "Borderline",
+      "weight": 1.0
+    },
+    {
+      "id": 40,
+      "text": "\u00bfT\u00fa have pensamientos intrusivos that cause anxiety?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 41,
+      "text": "\u00bfT\u00fa sientes obligado to perform rituales to reduce anxiety?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 42,
+      "text": "\u00bfT\u00fa excessively check things, like locks or appliances?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 43,
+      "text": "\u00bfT\u00fa sientes the need to organize things in a specific way?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 44,
+      "text": "\u00bfT\u00fa avoid situations that might trigger obsessive pensamientos?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 45,
+      "text": "\u00bfT\u00fa spend a lot of time cleaning or washing?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 46,
+      "text": "\u00bfT\u00fa sientes uncomfortable if you can't complete a ritual?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 47,
+      "text": "\u00bfT\u00far obsessions interfere with your daily life?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 48,
+      "text": "\u00bfT\u00fa struggle to resist compulsive behaviors?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 49,
+      "text": "\u00bfT\u00fa sientes anxious if things aren\u2019t perfect or symmetrical?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 50,
+      "text": "\u00bfT\u00fa sientes a need to confess or seek reassurance frequently?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 51,
+      "text": "\u00bfT\u00fa avoid certain objects or places due to contamination fears?",
+      "category": "OCD",
+      "weight": 1.0
+    },
+    {
+      "id": 52,
+      "text": "\u00bfT\u00fa spend excessive time on repetitive tareas or pensamientos?",
+      "category": "OCD",
+      "weight": 1.0
+    }
+  ]
+}
